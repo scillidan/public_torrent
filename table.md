@@ -1,7 +1,8 @@
-filename                                    | torrent-file                                                                                     | check-it
+filename                                    | torrent-file                                                                                     | check-link
 :-                                          | :-                                                                                               | :-
 cuda_11.8.0_522.06_windows.exe              | [artifacts](https://github.com/scillidan/public_torrent/actions/runs/7497743312)                 | [runs](https://github.com/scillidan/public_torrent/actions/runs/7497743312/job/20411785196)
-torch-2.0.1+cu118-cp310-cp310-win_amd64.whl | [artifacts](https://github.com/scillidan/public_torrent/actions/runs/7497778531)                 | [runs](https://github.com/scillidan/public_torrent/actions/runs/7497778531/job/20411876303)
+torch-2.2.1+cu121-cp311-cp311-win_amd64.whl | [artifacts](https://github.com/scillidan/public_torrent/actions/runs/8437596049)                 | [runs](https://github.com/scillidan/public_torrent/actions/runs/8437596049/job/23107756058)
 torch-2.1.2+cu121-cp310-cp310-win_amd64.whl | [artifacts](https://github.com/scillidan/public_torrent/actions/runs/7652674130)                 | [runs](https://github.com/scillidan/public_torrent/actions/runs/7652674130/job/20852929475)
+torch-2.0.1+cu118-cp310-cp310-win_amd64.whl | [artifacts](https://github.com/scillidan/public_torrent/actions/runs/7497778531)                 | [runs](https://github.com/scillidan/public_torrent/actions/runs/7497778531/job/20411876303)
 Python-3.10.11.tar.xz                       | [artifacts](https://github.com/scillidan/public_torrent/actions/runs/8402003877/job/23010944791) | [runs](https://github.com/scillidan/public_torrent/actions/runs/8402003877/job/23010944791)
 Python-3.9.13.tar.xz                        | [artifacts](https://github.com/scillidan/public_torrent/actions/runs/8402006799)                 | [runs](https://github.com/scillidan/public_torrent/actions/runs/8402006799/job/23010950869)
